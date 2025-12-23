@@ -1,0 +1,16 @@
+# Screen
+WIDTH, HEIGHT = 800, 600
+FPS = 60
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+
+# Paddle
+PADDLE_WIDTH = 10
+PADDLE_HEIGHT = 100
+PADDLE_SPEED = 7
+
+# Ball
+BALL_SIZE = 20
+BALL_SPEED = 5
